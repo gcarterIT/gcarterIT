@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gcarterIT
+- 👋 Hi, I’m @gcarterIT in the USA
 - 👀 I’m interested in data analytics, visualizations, R, Python, Tableau
 - 🌱 I’m currently and always learning data analytics, visualizations, R, Python, Tableau
 - 💞️ I’m looking to collaborate on projects related to my interests
